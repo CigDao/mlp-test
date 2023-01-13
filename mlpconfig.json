@@ -1,1 +1,11 @@
-{"dao_name":"cig","member_principal":"j26ec-ix7zw-kiwcx-ixw6w-72irq-zsbyr-4t7fk-alils-u33an-kh6rk-7qe","token_supply":100000000000000000,"token_decimals":"8","token_fee":"0","token_name":"cig","token_symbol":"cig","proposal_cost":10000,"stake_time":259200000000000}
+{
+    "dao_name": "cig",
+    "member_principal": "j26ec-ix7zw-kiwcx-ixw6w-72irq-zsbyr-4t7fk-alils-u33an-kh6rk-7qe",
+    "token_supply": 100000000000000000,
+    "token_decimals": "8",
+    "token_fee": "0",
+    "token_name": "cig",
+    "token_symbol": "cig",
+    "proposal_cost": 10000,
+    "stake_time": 0
+}
