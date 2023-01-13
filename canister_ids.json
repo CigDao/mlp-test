@@ -1,0 +1,23 @@
+{
+  "dao": {
+    "ic": "n4sq3-qiaaa-aaaan-qczta-cai"
+  },
+  "database": {
+    "ic": "njvbw-raaaa-aaaan-qczqq-cai"
+  },
+  "multisig": {
+    "ic": "nouhc-4yaaa-aaaan-qczqa-cai"
+  },
+  "swap": {
+    "ic": "nsq5t-lyaaa-aaaan-qczsa-cai"
+  },
+  "token": {
+    "ic": "nhxm6-kqaaa-aaaan-qczrq-cai"
+  },
+  "topup": {
+    "ic": "nawkk-hiaaa-aaaan-qczra-cai"
+  },
+  "treasury": {
+    "ic": "nvr3h-gaaaa-aaaan-qczsq-cai"
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "canisters": {
+        "multisig": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/multisig/multisig.did",
+            "wasm": "canisters/multisig/multisig.wasm"
+        },
+        "database": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/database/database.did",
+            "wasm": "canisters/database/database.wasm"
+        },
+        "topup": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/topup/topup.did",
+            "wasm": "canisters/topup/topup.wasm"
+        },
+        "token": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/token/token.did",
+            "wasm": "canisters/token/token.wasm"
+        },
+        "swap": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/swap/swap.did",
+            "wasm": "canisters/swap/swap.wasm"
+        },
+        "treasury": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/treasury/treasury.did",
+            "wasm": "canisters/treasury/treasury.wasm"
+        },
+        "dao": {
+            "type": "custom",
+            "build": "",
+            "candid": "canisters/dao/dao.did",
+            "wasm": "canisters/dao/dao.wasm"
+        }
+    }
+}
